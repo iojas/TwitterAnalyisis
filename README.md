@@ -5,7 +5,7 @@ This Project Analysis Live twitter stream. There are lots of factor a tweets can
 1. Top 10 trending hashtags.
 2. Countries withhighest tweets.
 3. Language used
-All analysis is done on near realtime data. The progra is written in Python.
+All analysis is done on near realtime data. The program is written in Python.
 
 *************HOW TO*************
 Run twitterstream.py and pipe the output to a file.
